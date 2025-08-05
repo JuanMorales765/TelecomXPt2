@@ -2,7 +2,7 @@
 
 Modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios en TelecomX.
 
-🧠 #### **Objetivos del Desafío**
+🧠 **Objetivos del Desafío**
 
 - Preparar los datos para el modelado (tratamiento, codificación, normalización).
 - Realizar análisis de correlación y selección de variables.
