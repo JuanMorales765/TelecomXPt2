@@ -55,6 +55,4 @@ Para poder ejecutarel de manera local, necesitarás instalar todas las librería
    - En Linux/Mac, generalmente no hay problemas
    - En Windows, algunas librerías como XGBoost pueden requerir Microsoft Visual C++ Build Tools
 
-7. **Gestión de warnings**:
-   - Tu código tiene `warnings.filterwarnings('ignore')`, pero durante el desarrollo quizás quieras ver los warnings para detectar posibles problemas.
 
